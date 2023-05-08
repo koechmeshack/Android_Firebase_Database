@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663172983536",
+    "project_id": "midfirebase-dd5e2",
+    "storage_bucket": "midfirebase-dd5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663172983536:android:0486c36d1c20017687f035",
+        "android_client_info": {
+          "package_name": "com.koech.midfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663172983536-kd1hcebt9lkf7jdk9e14l049u7jhm08l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMFbsXKN70EBCRsnxdcnQf1z1dVaxZJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663172983536-kd1hcebt9lkf7jdk9e14l049u7jhm08l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
